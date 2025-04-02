@@ -11,10 +11,12 @@ Ard-Ri/
 ├── images/              # Ressources graphiques
 │   └── titles/
 │       └── logo.png     # Logo du jeu affiché dans la fenêtre
+│           ..
 ├── src/                 # Code source principal
 │   ├── main.py          # Point d’entrée du jeu (fichier à exécuter)
 │   ├── game.py          # Logique du jeu (gestion des états, règles, etc.)
 │   └── board.py         # Gestion du plateau de jeu et de l'affichage
+│       ..
 ├── README.md            # Documentation du projet
 └── .gitignore           # Fichiers/dossiers à exclure du versionnement
 ```
