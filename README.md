@@ -3,7 +3,7 @@
 Ard-Ri est un jeu de stratégie implémenté en Python avec la bibliothèque Pygame.  
 Le but du jeu est d'incarner un roi et de défendre son trône contre les assaillants.
 
-# Arborescence du projet
+# 📁 Arborescence du projet
 
 ```
 Ard-Ri/
@@ -21,7 +21,7 @@ Ard-Ri/
 └── .gitignore           # Fichiers/dossiers à exclure du versionnement
 ```
 
-# Lancer le jeu
+# 🎮 Lancer le jeu
 
 python src/main.py
 
